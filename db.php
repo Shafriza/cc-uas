@@ -4,6 +4,8 @@ session_start();
 $conn = mysqli_connect(
   'localhost',
   'root',
-  'Shafriza123/',
-  'crud'
-);
+  'password123',
+  'php_mysql_crud'
+) or die(mysqli_erro($mysqli));
+
+?>
