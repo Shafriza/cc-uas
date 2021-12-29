@@ -2,8 +2,8 @@
 session_start();
 
 $conn = mysqli_connect(
-  'localhost',
-  'root',
+  '10.0.0.179',
+  'admin',
   'Shafriza123/',
   'crud'
 );
