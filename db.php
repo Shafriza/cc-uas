@@ -5,7 +5,7 @@ $conn = mysqli_connect(
   'localhost',
   'root',
   'Shafriza123/',
-  'php_mysql_crud'
+  'crud'
 ) or die(mysqli_erro($mysqli));
 
 ?>
