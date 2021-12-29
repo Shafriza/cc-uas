@@ -6,6 +6,6 @@ $conn = mysqli_connect(
   'root',
   'Shafriza123/',
   'crud'
-) or die(mysqli_erro($mysqli));
+);
 
 ?>
