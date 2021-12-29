@@ -1,4 +1,4 @@
-CREATE DATABASE php_mysql_crud;
+CREATE DATABASE crud;
 
 use php_mysql_crud;
 
